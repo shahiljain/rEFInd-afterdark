@@ -1,9 +1,9 @@
 ## Minimalistic rEFInd theme
 
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
-based systems. This is a clean and minimal theme for it.
+based systems. This is a dark mode recreation of the orginal rEFInd-minimal theme.
 
-![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
+![preview](https://github.com/user-attachments/assets/fc6bc3b0-418e-4172-acd8-0895ab49026c)
 
 ### Usage
 
@@ -53,8 +53,8 @@ You can of course also choose your own background!
 ### Attribution
 
 The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
-
-
+The new OS icons are reworked from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) of the respective OSes.
+The new tooltip icons are from the [Lucide Icons](lucide.dev) icon pack.
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
