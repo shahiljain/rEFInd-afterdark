@@ -1,13 +1,13 @@
 ## Minimalistic rEFInd theme
 
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
-based systems. This is a clean and minimal theme for it.
+based systems. This is a dark mode recreation of the orginal rEFInd-minimal theme.
 
-![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
+![preview](https://github.com/user-attachments/assets/fc6bc3b0-418e-4172-acd8-0895ab49026c)
 
 ### Usage
 
-1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`
+1. Locate your refind EFI directory. This is commonly `/boot/efi/EFI/refind`
    though it will depend on where you mount your ESP and where rEFInd is
    installed. `fdisk -l` and `mount` may help.
 
@@ -44,8 +44,7 @@ Entries that are autodetected should also show the proper icons.
 ### Background sizes
 
 If you find the background looks blurry it may be due to the included wallpaper
-being an incorrect resolution for your monitor. You can download the [original
-high quality wallpaper][wallpaper], resize it as appropriate, and replace the
+being an incorrect resolution for your monitor. You can download the [SVG version](https://drive.google.com/file/d/1a_E6PZNcs0do9KOtvJWEADW00dnHQ-tS/view?usp=sharing) of the background, resize it as appropriate, and replace the
 `background.png`.
 
 You can of course also choose your own background!
@@ -53,12 +52,8 @@ You can of course also choose your own background!
 ### Attribution
 
 The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
-
-
+The new OS icons are reworked from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) of the respective OSes.
+The new tooltip icons are from the [Lucide Icons](lucide.dev) icon pack.
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
-
-[padster]: https://github.com/theRealPadster
-[wallpaper]: http://leonardoalanb.deviantart.com/art/Minimalist-wallpaper-295519786
-[wallpaper-author]: http://leonardoalanb.deviantart.com/
